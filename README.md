@@ -1,2 +1,2 @@
 # App-WEB
-Projetos para a web.
+Loja virtual em PHP.
