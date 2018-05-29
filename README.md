@@ -1,2 +1,2 @@
 # App-WEB
-Loja virtual em PHP.
+Loja virtual com HTML, BOOTSTRAP e PHP.
