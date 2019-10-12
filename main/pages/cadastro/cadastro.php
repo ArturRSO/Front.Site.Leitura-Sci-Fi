@@ -1,10 +1,7 @@
 <?php
 require ("db.php");
 
-
 //coletar dados
-
-
 $email = $_POST['inputEmail'];
 $senha = md5($_POST['inputSenha']);
 $nome = $_POST['inputNome'];
