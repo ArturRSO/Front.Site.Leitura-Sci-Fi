@@ -1,6 +1,6 @@
 # Leitura SCI-FI
 
-- Web-site developed for a ficcional book store, called "Leitura SCI-FI", for learning purposes.
+- Website developed for a ficcional book store, called "Leitura SCI-FI", for learning purposes.
 - Technologies used:
   - HTML 5
   - CSS 3
