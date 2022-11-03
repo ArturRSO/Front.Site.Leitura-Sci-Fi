@@ -1,2 +1,9 @@
 # Leitura SCI-FI
-Exemplo de site institucional, utilizando bootstrap, javaScript, HTML 5 e PHP para persistência de dados.
+
+- Web-site developed for a ficcional book store, called "Leitura SCI-FI", for learning purposes.
+- Technologies used:
+  - HTML 5
+  - CSS 3
+  - Bootstrap
+  - JavaScript
+  - PHP
